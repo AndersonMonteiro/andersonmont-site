@@ -52,7 +52,7 @@ about_content: > # this means to ignore newlines until the next config item.
     - Lists
     - Tables
     - <a href="https://google.com">Links</a>
-    - Images
+#    - Images
 
 content:
   - title: Projects
