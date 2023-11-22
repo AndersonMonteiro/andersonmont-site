@@ -124,7 +124,7 @@ content:
 
       - layout: left
         border: weak
-        title: Judicial Analysis System at Kurier
+        title: Judicial Analysis System
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         link_text: Link Text
         additional_links:
@@ -143,23 +143,76 @@ content:
     layout: list
     content:
       - layout: right
-        title: Company name A
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
+        title: Tribal
+        sub_title: Software Engineer
+        caption: March 2022 - Present
+        link: www.tribal.com
         description: | 
-          Description of role
+          Lead engineer in expense management and credit services. Spearheaded cross-functional team collaborations, driving forward the development of scalable and reliable systems.
+
       - layout: right
-        title: Company name B
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
+        title: Prosperità
+        sub_title: Technical Lead
+        caption: February 2021 - January 2022
         description: |
-          Description of role
+          Provided technical guidance to a team of five developers. Focused on transitioning a monolithic system to a microservices architecture to enhance scalability and maintainability.
+
+      - layout: right
+        title: Inmetrics
+        sub_title: Software Engineer
+        caption: September 2020 - May 2021
+        description: |
+          Instrumental in architecting and implementing Brazil's digital payment service "PIX", ensuring the system's agility, security, and high availability.
+
+      - layout: right
+        title: Grupo Moura
+        sub_title: Software Engineer
+        caption: June 2019 - August 2020
+        description: |
+          Led the development of a financial reconciliation module, leveraging Python and microservices to significantly improve operational accuracy and efficiency.
+
+      - layout: right
+        title: Pitang
+        sub_title: DevOps Engineer
+        caption: November 2018 - June 2019
+        description: |
+          Designed and executed a DevOps infrastructure strategy, enhancing software development life cycle processes for the Education Department of Pernambuco.
+
+      - layout: right
+        title: Kurier
+        sub_title: Software Engineer
+        caption: January 2018 - November 2018
+        description: |
+          Developed a judicial analysis system using Elasticsearch and machine learning, pioneering data-driven decision-making tools in the legal field.
+
+      - layout: right
+        title: Ondunorte
+        sub_title: Senior Software Analyst
+        caption: November 2016 - January 2018
+        description: |
+          Managed ERP system implementation across a network of paper factories, optimizing operations and achieving significant improvements in productivity.
+
+      - layout: right
+        title: Grupo Rangel Contabilidade
+        sub_title: Senior Software Analyst
+        caption: June 2015 - June 2016
+        description: |
+          Led the IT department establishment and ERP system integration, streamlining financial and accounting operations.
+
+      - layout: right
+        title: Grupo Trigo
+        sub_title: Software Analyst
+        caption: January 2013 - June 2015
+        description: |
+          Implemented ITIL service management and asset configuration, bolstering infrastructure efficiency and security for retail operations.
+
+      - layout: right
+        title: Marinha do Brasil
+        sub_title: Infrastructure Analyst / Military
+        caption: January 2006 - December 2012
+        description: |
+          Supported critical infrastructure and logistics operations, contributing to the modernization of technological capabilities and enhancing operational effectiveness.
+
   - title: Education
     layout: list
     content:
