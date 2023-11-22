@@ -12,7 +12,7 @@ email: anderson.monteiro.olc@gmail.com
 # email_title: Email (Email title override)
 phone: "+5581997697861"
 # phone_title: Phone (Phone title override)
-website: blog.andersonmont.com
+website: andersonmont.com
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
@@ -207,7 +207,7 @@ content:
           Managed ERP system implementation across a network of paper factories, optimizing operations and achieving significant improvements in productivity.
 
       - layout: right
-        title: Grupo Rangel Contabilidade
+        title: Grupo Rangel
         sub_title: Senior Software Analyst
         caption: June 2015 - June 2016
         quote: >
@@ -237,14 +237,14 @@ content:
     layout: list
     content:
       - layout: top-left
-        title: Centro Universitário UniCarioca
+        title: Carioca University
         sub_title: Bachelor's Degree in Computer Science
         caption: 2011 - 2014
         description: |
           A comprehensive program focused on the principles and practices of computer science. Courses covered a range of topics including software development, system architecture, and data algorithms. The curriculum prepared me for the technological challenges in the industry and laid the groundwork for my career in software engineering.
 
       - layout: top-left
-        title: Marinha do Brasil
+        title: Brazilian Navy
         sub_title: Specialization in Computer Science
         caption: 2010
         description: |
