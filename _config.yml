@@ -147,6 +147,8 @@ content:
         sub_title: Software Engineer
         caption: March 2022 - Present
         link: www.tribal.com
+        quote: >
+          Significant revenue growth and user base expansion due to the successful launch of the expense management system.
         description: | 
           Lead engineer in expense management and credit services. Spearheaded cross-functional team collaborations, driving forward the development of scalable and reliable systems.
 
@@ -154,6 +156,8 @@ content:
         title: Prosperità
         sub_title: Technical Lead
         caption: February 2021 - January 2022
+        quote: >
+          Improved system scalability and reduced downtime by transitioning to a microservices architecture.
         description: |
           Provided technical guidance to a team of five developers. Focused on transitioning a monolithic system to a microservices architecture to enhance scalability and maintainability.
 
@@ -161,6 +165,8 @@ content:
         title: Inmetrics
         sub_title: Software Engineer
         caption: September 2020 - May 2021
+        quote: >
+          Contributed to the national adoption of the PIX payment system, reaching over 15 million users. 
         description: |
           Instrumental in architecting and implementing Brazil's digital payment service "PIX", ensuring the system's agility, security, and high availability.
 
@@ -168,6 +174,8 @@ content:
         title: Grupo Moura
         sub_title: Software Engineer
         caption: June 2019 - August 2020
+        quote: >
+          Achieved a 99% accuracy rate in financial reconciliation through the development of a new fintech module.
         description: |
           Led the development of a financial reconciliation module, leveraging Python and microservices to significantly improve operational accuracy and efficiency.
 
@@ -175,6 +183,8 @@ content:
         title: Pitang
         sub_title: DevOps Engineer
         caption: November 2018 - June 2019
+        quote: >
+          Enhanced the software development lifecycle, which significantly accelerated project delivery times.
         description: |
           Designed and executed a DevOps infrastructure strategy, enhancing software development life cycle processes for the Education Department of Pernambuco.
 
@@ -182,6 +192,8 @@ content:
         title: Kurier
         sub_title: Software Engineer
         caption: January 2018 - November 2018
+        quote: >
+          Pioneered in the legal analytics domain with a system that improved the accuracy of judicial outcome predictions.
         description: |
           Developed a judicial analysis system using Elasticsearch and machine learning, pioneering data-driven decision-making tools in the legal field.
 
@@ -189,6 +201,8 @@ content:
         title: Ondunorte
         sub_title: Senior Software Analyst
         caption: November 2016 - January 2018
+        quote: >
+          Streamlined factory operations across multiple sites, enhancing productivity and reducing operational costs.
         description: |
           Managed ERP system implementation across a network of paper factories, optimizing operations and achieving significant improvements in productivity.
 
@@ -196,6 +210,8 @@ content:
         title: Grupo Rangel Contabilidade
         sub_title: Senior Software Analyst
         caption: June 2015 - June 2016
+        quote: >
+          Established a new IT department and integrated ERP system, leading to more efficient financial operations.
         description: |
           Led the IT department establishment and ERP system integration, streamlining financial and accounting operations.
 
@@ -203,6 +219,8 @@ content:
         title: Grupo Trigo
         sub_title: Software Analyst
         caption: January 2013 - June 2015
+        quote: >
+          Implemented ITIL compliant processes, improving infrastructure management and operational security.
         description: |
           Implemented ITIL service management and asset configuration, bolstering infrastructure efficiency and security for retail operations.
 
@@ -210,6 +228,8 @@ content:
         title: Marinha do Brasil
         sub_title: Infrastructure Analyst / Military
         caption: January 2006 - December 2012
+        quote: >
+          Modernized technological capabilities, which enhanced the Brazilian Navy's operational effectiveness.
         description: |
           Supported critical infrastructure and logistics operations, contributing to the modernization of technological capabilities and enhancing operational effectiveness.
 
@@ -217,27 +237,25 @@ content:
     layout: list
     content:
       - layout: top-left
-        title: Institution name A
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
-        quote: >
-          Short institution or course description (optional)
+        title: Centro Universitário UniCarioca
+        sub_title: Bachelor's Degree in Computer Science
+        caption: 2011 - 2014
         description: |
-          Description of qualification
-      - layout: top-left
-        title: Institution name B
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
-        quote: >
-          Short institution or course description (optional)
-        description: |
-          Description of qualification
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+          A comprehensive program focused on the principles and practices of computer science. Courses covered a range of topics including software development, system architecture, and data algorithms. The curriculum prepared me for the technological challenges in the industry and laid the groundwork for my career in software engineering.
 
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+      - layout: top-left
+        title: Marinha do Brasil
+        sub_title: Specialization in Computer Science
+        caption: 2010
+        description: |
+          Specialized training provided by the Brazilian Navy, enhancing my technical skills in computer science, particularly in areas relevant to military applications and logistics. This education was instrumental in developing my systematic approach and problem-solving skills in complex environments.
+
+  # - title: A Little More About Me
+  #   layout: text
+  #   content: | # this will include new lines to allow paragraphs
+  #     This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+
+  #     Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
 footer_show_references: true
