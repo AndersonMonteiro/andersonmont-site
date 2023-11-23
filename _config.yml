@@ -67,7 +67,7 @@ content:
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          Python, Go, Docker, Kubernetes, RabbitMQ
+          Technologies: Python, Go, Docker, Kubernetes, RabbitMQ
         description: |
           Transformed a monolithic application into a microservices architecture, significantly boosting system scalability and operational efficiency. Guided a team of developers through the transition, ensuring best practices and performance optimization.
 
