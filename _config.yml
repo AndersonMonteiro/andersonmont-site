@@ -28,9 +28,9 @@ linkedin_username: andersonmont
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello, I'm Anderson, a seasoned software engineer specializing in fintech solutions and DevOps technologies. With over a decade of experience in software engineering, I've led teams and projects across various domains, especially in financial services and data engineering. I'm adept in Go, Python, C#, and an array of DevOps tools, continually seeking to integrate emerging technologies into digital financial products.
+  Hello! I'm Anderson, a Software Engineer with a robust background in fintech solutions and DevOps technologies. With over 10 years of experience in the tech industry, I specialize in crafting efficient, scalable, and innovative software solutions. My journey in the tech world has been driven by a relentless pursuit of knowledge and a deep commitment to excellence. Whether it's developing complex backend systems in Go and Python or orchestrating cloud services with AWS and Kubernetes, I thrive on challenges that push the boundaries of technology.
 
-  I am most skilled in: Fintech Solutions, Go, Python, C#, AWS, and Kubernetes.
+  Recently, I embarked on a research project that explores the intersection of Artificial Intelligence and Education, focusing on its application in personal financial management. This project integrates AI and NLP to enhance financial literacy, aiding individuals in making smarter and more automated financial decisions. It utilizes technologies such as Python, Go, OpenAI GPT-4, AWS, and others, showcasing my commitment to integrating cutting-edge technologies into practical solutions.
 
 content:
   - title: Projects # Title for the section
