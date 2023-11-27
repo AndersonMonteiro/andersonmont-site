@@ -30,11 +30,10 @@ linkedin_username: andersonmont
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello! I'm Anderson, a Software Engineer with a robust background in fintech solutions and DevOps technologies. With over 10 years of experience in the tech industry, I specialize in crafting efficient, scalable, and innovative software solutions. My journey in the tech world has been driven by a relentless pursuit of knowledge and a deep commitment to excellence. Whether it's developing complex backend systems in Go and Python or orchestrating cloud services with AWS and Kubernetes, I thrive on challenges that push the boundaries of technology.
+  Hello! I’m Anderson, a Software Engineer specializing in fintech solutions and DevOps technologies. With a decade in the tech industry, my focus has been on developing efficient and scalable software solutions. I am continually learning and striving for excellence in my field. My experience ranges from building complex backend systems using Go and Python to managing cloud services with AWS and Kubernetes. I am always eager to embrace challenges that enhance my technical expertise.
 
-  
 
-  Recently, I embarked on a research project that explores the intersection of Artificial Intelligence and Education, focusing on its application in personal financial management. This project integrates AI and NLP to enhance financial literacy, aiding individuals in making smarter and more automated financial decisions. It utilizes technologies such as Python, Go, OpenAI GPT-4, AWS, and others, showcasing my commitment to integrating cutting-edge technologies into practical solutions.
+  Recently, I have been working on a research project at the crossroads of Artificial Intelligence and Education. It’s an initiative that looks into applying AI in personal financial management. The project aims to improve financial literacy by assisting individuals in making informed and automated financial decisions. It leverages technologies like Python, Go, OpenAI GPT-4, AWS, among others. This endeavor reflects my ongoing efforts to blend emerging technologies with real-world applications.
 
 content:
   - title: Projects # Title for the section
