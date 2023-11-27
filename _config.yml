@@ -7,6 +7,8 @@ version: 2
 
 # Personal info
 name: Anderson Monteiro
+first_name: Anderson
+last_name: Monteiro
 title: Senior Software Engineer
 email: anderson.monteiro.olc@gmail.com
 # email_title: Email (Email title override)
