@@ -50,7 +50,7 @@ content:
         #     icon: fab fa-github
         #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          Technologies: Go, AWS, Kafka, Docker, Kubernetes, Snowflake, Redis
+          <mark>Go</mark> <mark>AWS</mark> <mark>Kafka</mark> <mark>Docker</mark> <mark>Kubernetes</mark> <mark>Snowflake</mark> <mark>Redis</mark>
         description: | # this will include new lines to allow paragraphs
           Led the development of a scalable and robust expense management system. Enhanced user engagement and revenue with a focus on handling high-volume data processing and improving financial reconciliation capabilities.
       
@@ -67,7 +67,7 @@ content:
         #     icon: fab fa-github
         #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          Technologies: Python, Go, Docker, Kubernetes, RabbitMQ
+          <mark>Python</mark> <mark>Go</mark> <mark>Docker</mark> <mark>Kubernetes</mark> <mark>RabbitMQ</mark>
         description: |
           Transformed a monolithic application into a microservices architecture, significantly boosting system scalability and operational efficiency. Guided a team of developers through the transition, ensuring best practices and performance optimization.
 
@@ -84,7 +84,7 @@ content:
         #     icon: fab fa-github
         #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          Technologies: C#, .Net Core, SQL Server, MongoDB, Kafka
+          <mark>C#</mark> <mark>.Net Core</mark> <mark>SQL Server</mark> <mark>MongoDB</mark> <mark>Kafka</mark>
         description: |
           Key player in developing a high-availability microservices-based payment system, contributing to its successful implementation and widespread adoption across 15 million users in Brazil.
           
@@ -101,7 +101,7 @@ content:
         #     icon: fab fa-github
         #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          Technologies: Python, AWS, RabbitMQ
+          <mark>Python</mark> <mark>AWS</mark> <mark>RabbitMQ</mark>
         description: |
           Developed an advanced financial reconciliation solution, enhancing operational accuracy from 30% to 99%. Played a critical role in the fintech venture's success, elevating customer satisfaction and trust.
 
@@ -118,7 +118,7 @@ content:
         #     icon: fab fa-github
         #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          Technologies: <mark>Python</mark>, <mark>C#</mark>, <mark>Azure</mark>, <mark>CI/CD</mark>, <mark>Docker</mark>
+          <mark>Python</mark> <mark>C#</mark> <mark>Azure</mark> <mark>CI/CD</mark> <mark>Docker</mark>
         description: |
           Designed and implemented a comprehensive DevOps infrastructure, fostering a culture of agile development and enhancing software delivery efficiency.
 
@@ -135,7 +135,7 @@ content:
         #     icon: fab fa-github
         #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          Technologies: Elasticsearch, Python, C#, Machine Learning
+          <mark>Elasticsearch</mark> <mark>Python</mark> <mark>C#</mark> <mark>Machine Learning</mark>
         description: |
           Developed a pioneering judicial analysis system using Elasticsearch and machine learning, enhancing decision-making accuracy in legal proceedings.
 
