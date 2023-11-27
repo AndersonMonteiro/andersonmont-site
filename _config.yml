@@ -118,7 +118,7 @@ content:
         #     icon: fab fa-github
         #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          Technologies: Python, C#, Azure, CI/CD, Docker
+          Technologies: <mark>Python</mark>, <mark>C#</mark>, <mark>Azure</mark>, <mark>CI/CD</mark>, <mark>Docker</mark>
         description: |
           Designed and implemented a comprehensive DevOps infrastructure, fostering a culture of agile development and enhancing software delivery efficiency.
 
