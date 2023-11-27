@@ -145,10 +145,10 @@ content:
     layout: list
     content:
       - layout: right
-        title: Tribal
+        title: Tribal Credit
         sub_title: Software Engineer
         caption: March 2022 - Present
-        link: www.tribal.com
+        # link: www.tribal.com
         quote: >
           Significant revenue growth and user base expansion due to the successful launch of the expense management system.
         description: | 
