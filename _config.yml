@@ -40,7 +40,7 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Expense Management Solution
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         # link_text: Link Text
         # additional_links:
         #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
@@ -57,7 +57,7 @@ content:
       - layout: left
         border: weak
         title: Financial Application Modernization
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         # link_text: Link Text
         # additional_links:
         #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
@@ -74,7 +74,7 @@ content:
       - layout: left
         border: weak
         title: Digital Payment Service "PIX"
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         # link_text: Link Text
         # additional_links:
         #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
@@ -91,7 +91,7 @@ content:
       - layout: left
         border: weak
         title: Financial Reconciliation Module
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         # link_text: Link Text
         # additional_links:
         #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
@@ -108,7 +108,7 @@ content:
       - layout: left
         border: weak
         title: DevOps Infrastructure Implementation
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         # link_text: Link Text
         # additional_links:
         #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
@@ -125,7 +125,7 @@ content:
       - layout: left
         border: weak
         title: Judicial Analysis System
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         # link_text: Link Text
         # additional_links:
         #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
